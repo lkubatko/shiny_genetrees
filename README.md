@@ -1,2 +1,2 @@
 # shiny_genetrees
-Shiny app to understand gene tree distributions under the coalescent
+Shiny apps to understand probability distributions arising from a fixed species tree under the multispecies coalescent.  One app computes gene tree distributions and the other computes site pattern probabilities under the JC69 model.
